@@ -1,11 +1,42 @@
-## :globe_with_meridians: Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/couferai?igsh=bXhvZ3JhN2c2cjN0&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-couferai/) 
+<div align="center" >
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlign=50&textBg=false&fontSize=70&animation=scaleIn&descAlign=60&stroke=00000&strokeWidth=84026)
+
+## :globe_with_meridians: Social
+<label align="center">
+    <a href="https://www.instagram.com/couferai?igsh=bXhvZ3JhN2c2cjN0&utm_source=qr">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/marcelo-couferai/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+        <a href="mcouferai@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</label>
+
+# 
 
 # :bar_chart: GitHub Stats:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloCouferai&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloCouferai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
 
-# �� Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloCouferai&theme=dark) 
 
-[![](https://visitcount.itsvg.in/api?id=MarceloCouferai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vscode,github,figma,typescript,django,py,vercel" />
+</div>
+
+#
+
+<div align="center">
+    <br>
+        <h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Contagem+de+Visualiza%C3%A7%C3%B5es" />
+        </h1> 
+        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarceloCouferai}/count.svg" /></p> 
+</div>
+</div>
+#
+
+
+![snake gif](https://github.com/MarceloCouferai/MarceloCouferai/blob/output/github-contribution-grid-snake-dark.svg)
