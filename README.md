@@ -38,7 +38,5 @@
 
 #
 
-![snake gif](https://github.com/MarceloCouferai/MarceloCouferai/blob/output/github-contribution-grid-snake-dark.svg)
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontAlign=50&textBg=false&fontSize=70&animation=scaleIn&descAlign=60&stroke=00000&strokeWidth=84026)
 </div>
