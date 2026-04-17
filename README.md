@@ -1,18 +1,24 @@
-<div align="center" >
+<div align="center">
 
-## :globe_with_meridians: Social
-<label align="center">
-    </a>
-    <a href="https://www.linkedin.com/in/marcelo-couferai/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-        <a href="mcouferai@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-</label>
+Desenvolvedor full stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vscode,github,figma,php,py,vercel" />
+<br>
+
+## Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/marcelo-couferai/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:mcouferai@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br><br>
+
+## Tecnologias
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,php,py,github,vercel,vscode,figma" />
+
 </div>
 
 </div>
